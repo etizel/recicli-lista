@@ -14,6 +14,9 @@
       font-family: monospace;
       font-weight: 500;
       color: #016c9a;
+      scroll-behavior: smooth;
+      animation: scroll .5s forwards;
+      transition: .5s ease;
 
     }
 
@@ -40,15 +43,29 @@
       justify-content: center;
     }
 
+    @keyframes scroll {
+      from {
+        opacity: 0;
+      }
 
-    @media(max-width: 600px) {
+      to {
+        opacity: 1;
+      }
+    }
+
+    @media(max-width: 700px) {
       html {
         flex-wrap: wrap;
         display: grid;
         grid-template-columns: 1fr;
         grid-column: 1fr;
         font-size: .5rem;
+        max-width: 100%;
+        overflow-x: hidden;
+
       }
+
+
 
       section#list-push {
         width: 100%;
@@ -58,6 +75,7 @@
         display: block;
         margin: 0 auto;
       }
+
     }
   </style>
   <img src="./recicli.png" alt="recicli-image" width="300" height="99">
