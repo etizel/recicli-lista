@@ -27,6 +27,7 @@
       flex-direction: column;
       align-items: center;
       padding: 20px;
+      flex-wrap: wrap;
     }
 
     .nome {
@@ -37,6 +38,14 @@
     h1 {
       display: flex;
       justify-content: center;
+    }
+
+    @media(max-width: 600px) {
+      html {
+        flex-wrap: wrap;
+        display: grid;
+        grid-template-columns: 1fr;
+      }
     }
   </style>
   <img src="./recicli.png" alt="recicli-image" width="300" height="99">
