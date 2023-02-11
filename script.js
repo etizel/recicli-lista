@@ -1,4 +1,4 @@
-var indicesToChangeColor = [1, 2, 3, 6, 7, 8, 21, 36];
+var indicesToChangeColor = [0, 1, 2, 5, 6, 7, 20, 36];
 
 fetch('arquivo.json')
   .then((response) => response.json())
@@ -11,10 +11,10 @@ fetch('arquivo.json')
       const li = document.createElement('li');
       list.appendChild(li);
       li.style.border = '1px solid #131313';
-
       li.style.listStyle = 'none';
       li.style.padding = '20px 20px';
 
+      // Mudando a cor do índices
       if (indicesToChangeColor.includes(index + 1)) {
         li.style.color = '#ffd700';
         li.style.border = '1px solid #131313';
