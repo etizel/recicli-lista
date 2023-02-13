@@ -22,7 +22,7 @@ fetch('arquivo.json')
       }
 
       li.textContent = item;
-      li.textContent = JSON.stringify(item);
+      li.textContent = JSON.stringify(item).replace(/["{}]/g, '');
       list.appendChild(li);
     });
 
