@@ -10,14 +10,14 @@ fetch('arquivo.json')
     data.forEach((item, index) => {
       const li = document.createElement('li');
       list.appendChild(li);
-      li.style.border = '1px solid #131313';
+      li.style.border = '0.5px solid #131313';
       li.style.listStyle = 'none';
-      li.style.padding = '20px 20px';
+      li.style.padding = '26px 26px';
+      li.style.borderRadius = '10px';
 
       // Mudando a cor do índices
       if (indicesToChangeColor.includes(index + 1)) {
         li.style.color = '#ffd700';
-        li.style.border = '1px solid #131313';
         li.style.textShadow = '0.5px 0.5px 1px #333';
       }
 
