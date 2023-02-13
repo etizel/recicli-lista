@@ -37,7 +37,7 @@
   },
   {
     "nome": "Tecnico em concerto de Notebooks",
-    "endereço": "R. Simão Dias, 182 Centro, Aracaju"
+    "endereço": "R. Simão Dias, 442 Centro, Aracaju"
   },
   {
     "nome": "MSN Informatica",
@@ -142,5 +142,9 @@
   {
     "nome": "Criary",
     "endereço": "Ananias Azevedo, 184 Galeria Center 13, 1 andar, Loja 57, Treze de Julho, Aracaju."
+  },
+  {
+    "nome": "JTC Informática",
+    "endereço": "R. Simão Dias, 178, Centro, Aracaju."
   }
 ]
