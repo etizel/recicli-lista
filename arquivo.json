@@ -112,8 +112,8 @@
     "endereço": "R. Filemon Franco Freire, 121, Siqueira Campos, Aracaju."
   },
   {
-    "nome": "Jamsoft",
-    "endereço": "Av. Des. Maynard, 300, Cirurgia, Aracaju."
+    "nome": "Casa do Notebook - II",
+    "endereço": "Av. Des. Maynard, 649-A, Cirurgia, Aracaju."
   },
   {
     "nome": "Stech",
@@ -158,5 +158,9 @@
   {
     "nome": "iDrianMac",
     "endereço": "Av. Nestor Sampaio, 814-A, Aracaju."
+  },
+  {
+    "nome": "Mcell info",
+    "endereço": "Rafael de Aguiar, 802A , Suissa, Aracaju."
   }
 ]
