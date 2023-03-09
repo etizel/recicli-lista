@@ -1,7 +1,7 @@
 export default function initFeve() {
   var indicesToChangeColor = [
     0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 20, 23, 26, 29, 32, 33, 34,
-    36, 37, 38, 39, 40, 41, 42,
+    36, 37, 38, 39, 40, 41, 42, 43, 44, 45,
   ];
   var indicesNotDefine = [14, 15, 16, 17, 24, 28, 31];
 
