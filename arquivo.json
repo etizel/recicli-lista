@@ -162,5 +162,61 @@
   {
     "nome": "Mcell info",
     "endereço": "Rafael de Aguiar, 802A , Suissa, Aracaju."
+  },
+  {
+    "nome": "Microlins",
+    "endereco": "R. Roberto Morais, 495 - Santos Dumont, Aracaju - SE."
+  },
+  {
+    "nome": "SENAI CETCC",
+    "endereco": "R. Propriá, 201 - Centro, Aracaju - SE."
+  },
+  {
+    "nome": "Instituto Mix Aracaju",
+    "endereco": "Rua Itabaiana, N° 795 - Centro, Aracaju - SE."
+  },
+  {
+    "nome": "Instituto Federal de educação e tecnologia",
+    "endereco": "Av. Eng. Gentil Tavares, 1166 - Getúlio Vargas, Aracaju - SE."
+  },
+  {
+    "nome": "Happy Aracaju",
+    "endereco": "R. Zaqueu Brandão, 226 - São José, Aracaju - SE."
+  },
+  {
+    "nome": "F.C Informática",
+    "endereco": "Av. João Ribeiro, 1395 - Dezoito do Forte, Aracaju - SE."
+  },
+  {
+    "nome": "Senai CETAF",
+    "endereco": "Av. Pres. Tancredo Neves, 2001 - Inácio Barbosa, Aracaju - SE."
+  },
+  {
+    "nome": "Senac",
+    "endereco": "Av. Ivo do Prado, 564 - São José, Aracaju - SE."
+  },
+  {
+    "nome": "Projeto Cursos Aju",
+    "endereco": "Rua Radialista Geraldo Mendes, 61 - Dezoito do Forte, Aracaju - SE."
+  },
+  {
+    "nome": "Apoio Informática",
+    "endereco": "Avenida Francisco José da Fonseca (gasoduto, Av. Francisco José da Fonseca, 1504 - N° 1504 - São Conrado, Aracaju - SE."
+  },
+  {
+    "nome": "Alfama",
+    "endereco": "Av. Augusto Franco, 2980 - Ponto Novo, Aracaju - SE."
+  },
+  {
+    "nome": "kuality Brasil",
+    "endereco": "Av. Pedro Calazans, 1126 - Centro, Aracaju - SE."
+  },
+  {
+    "nome": "Instituto Realize",
+    "endereco": "Edifício Jangada, R. São Cristóvão, 212 - sala 5, 4 - Centro, Aracaju - SE."
+  },
+  {
+    "nome": "Ultra Cursos",
+    "endereco": "Galeria Norcon - R. José do Prado Franco, N°71 - Sala 05 - Centro, Aracaju - SE."
   }
 ]

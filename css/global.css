@@ -11,7 +11,9 @@ html {
 a {
   list-style: none;
 }
-
+p {
+  margin-left: 30px;
+}
 li {
   font-size: 0.8rem;
 
