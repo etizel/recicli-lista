@@ -218,5 +218,21 @@
   {
     "nome": "Ultra Cursos",
     "endereco": "Galeria Norcon - R. José do Prado Franco, N°71 - Sala 05 - Centro, Aracaju - SE."
+  },
+  {
+    "nome": "Speed Cartuchos",
+    "endereco": "Rua laranjeiras, 1066, Getúlio Vargas - Centro, Aracaju - SE."
+  },
+  {
+    "nome": "Anhaguera",
+    "endereco": "Rua Itabaiana, 852 - Centro, Aracaju - SE."
+  },
+  {
+    "nome": "Dom Cabral José Luciano Duarte",
+    "endereco": "Rua Itabaiana, 855 - São José, Aracaju - SE."
+  },
+  {
+    "nome": "Microlins",
+    "endereco": "Praça Olímpio Campos, 700 - Centro, Aracaju - SE."
   }
 ]
